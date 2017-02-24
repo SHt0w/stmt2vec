@@ -28,4 +28,4 @@ Moreover, we have done lots of experiments on the structure of the Stmt2vec and 
 
 When using the code in your research work, you should cite the following paper:
 
-Stmt2vec: Learning Representations of Source Code. Shi Han, Haoyu Dong, Xin Li and Dongmei Zhang. 2016.
+Stmt2vec: Convolving Statement Embeddings on Program Dependence Graph for Extreme Summarization of Source Code. Shi Han, Haoyu Dong, Xin Li and Dongmei Zhang.
